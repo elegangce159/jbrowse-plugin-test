@@ -1,0 +1,8 @@
+{
+  "plugins": [
+    {
+      "name": "JbrowsePlugin",
+      "url": "http://localhost:9000/dist/jbrowse-plugin.umd.development.js"
+    }
+  ]
+}
